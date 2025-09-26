@@ -1,0 +1,4 @@
+uagents
+spacy
+requests
+hyperon
